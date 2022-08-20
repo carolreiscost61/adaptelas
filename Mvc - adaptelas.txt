@@ -1,0 +1,6 @@
+Rede Social - Instagram
+
+Create - quando eu posto uma imagem no feed do instagram é uma operação de criação do Model Postagem.
+Read - quando eu abro o meu perfil, é uma operação de leitura do Model Perfil
+Update - quando eu edito um comentário é usada a operação de atualização do Model Comentário
+Delete - quando eu apago uma postagem, é a operação delete do Model Postagem.
